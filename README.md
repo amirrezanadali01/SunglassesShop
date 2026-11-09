@@ -33,7 +33,7 @@ Sunglasses Shop is a mobile application designed to provide users with a smooth 
 1. Clone the repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/amirrezanadali01/SunglassesShop.git
    ```
 
 2. Navigate to the project directory:
